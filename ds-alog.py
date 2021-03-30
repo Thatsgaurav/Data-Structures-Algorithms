@@ -1,1 +1,0 @@
-print('Welcome To Data Structures + Algorithms')
